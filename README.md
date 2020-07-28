@@ -33,18 +33,24 @@ insert images here
 <a><img src="https://img.shields.io/badge/Database-MySQL-blue"></a>
 
 
-- Install and configure [XAMPP](https://pureinfotech.com/install-xampp-windows-10/) on Windows 10
+- Install and configure [XAMPP](https://pureinfotech.com/install-xampp-windows-10/) on Windows 10.
+
   NOTE : *In this project we will be using Apache HTTP server and MySQL database configured using XAMPP on our localhost*
-  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_1.jpg" width="600" height="350"></a>
+  
+  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_1.jpg" width="500" height="250"></a>
+  
 - Now, after you have finished installing XAMPP and fixed all errors (if any), Start the Apache HTTP server and MySQL database.
 
-  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_2.png" width="600" height="350"></a>
+  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_2.png" width="500" height="250"></a>
+  
 - Click on **Admin** button next to MySQL or alternatively you can go to your browser and type in the url **http://localhost/phpmyadmin/**
 - Now, go to the column on the left side of the screen and select **New**, it will create a new database. Give it a name, here I gave **vehicle_authentication** and leave the collation default and hit **Create**.
-  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_3.png" width="600" height="350"></a>
-- Now, create a table name **users** and with 6 columns for storing **Seriel Number**(primary key), **First Name**, **Last Name**, **E-Mail**, **Phone Number** and lastly **Vehicle Licence Plate Number**.
-  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_4.png" width="600" height="350"></a>
+
+  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_3.png" width="500" height="250"></a>
   
+- Now, create a table name **users** and with 6 columns for storing **Seriel Number**(primary key), **First Name**, **Last Name**, **E-Mail**, **Phone Number** and lastly **Vehicle Licence Plate Number**.
+
+  <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_4.png" width="500" height="250"></a>
   That's it !!
   
 #### Setting up the Website
