@@ -26,7 +26,7 @@ insert images here
 
 
 ### How to Start ?
-<a href="https://github.com/shubhadeepmandal394/vehicle-authentication/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-orange"></a>
+<a href="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-orange"></a>
 
 - Build a Xampp Server
 
