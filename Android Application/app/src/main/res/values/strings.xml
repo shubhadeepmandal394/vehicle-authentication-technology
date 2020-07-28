@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VNP Scanner</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the Camera is needed for Detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the Camera Permission. The application will now Exit.</string>
+    <string name="low_storage_error">OCR Dependencies cannot be downloaded due to Low Device Storage</string>
+    <string name="ocr_header">Click &quot;DETECT&quot; to Start Scan</string>
+    <string name="read_text">DETECT</string>
+    <string name="auto_focus">AUTO FOCUS</string>
+    <string name="use_flash">USE FLASH</string>
+    <string name="ocr_success">Vehicle Plate Number Detected Successfully !!</string>
+    <string name="ocr_failure">Sorry !! No Vehicle Plate Number Detected</string>
+    <string name="ocr_error">"Error Detecting Vehicle Plate Number : %1$s"</string>
+    <string name="authenticate">AUTHENTICATE</string>
+</resources>
