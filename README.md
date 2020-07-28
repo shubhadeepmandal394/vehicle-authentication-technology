@@ -53,10 +53,10 @@ insert images here
   That's it !!
   
 #### Setting up the Website
-> Now, Setup the [Website](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/website/README.md) to get the Project up and running.
+> Now, Setup the [Website](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/website) to get the Project up and running.
 
 #### Setting up the Android Application
-> Now, Setup the [Android Application](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/application/README.md) to get the Project up and running.
+> Now, Setup the [Android Application](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/application) to get the Project up and running.
 
 
 ### Contributers
