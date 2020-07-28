@@ -34,7 +34,6 @@ insert images here
 
 
 - Install and configure [XAMPP](https://pureinfotech.com/install-xampp-windows-10/) on Windows 10.
-
   NOTE : *In this project we will be using Apache HTTP server and MySQL database configured using XAMPP on our localhost*
   
   <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_1.jpg" width="500" height="250"></a>
@@ -51,6 +50,7 @@ insert images here
 - Now, create a table name **users** and with 6 columns for storing **Seriel Number**(primary key), **First Name**, **Last Name**, **E-Mail**, **Phone Number** and lastly **Vehicle Licence Plate Number**.
 
   <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_4.png" width="500" height="250"></a>
+  
   That's it !!
   
 #### Setting up the Website
