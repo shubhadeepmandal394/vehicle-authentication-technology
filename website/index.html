@@ -1,96 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <!--LINK JQUERY-->
-<script type="text/javascript" src="jquery-3.3.1.js"></script>
-<script src="script.js"></script>
-    <title>Document</title>
-</head>
-<body>
-    <div class="regform">
-        <h1>
- Vehicle Registration Form</h1>
-</div>
-<div><span id="resident">Resident/Applicant Details:</span>
-<div class="main">
-    
-        <form name="myForm" action="submit.php" method="POST">
-            <div id="name">
-                <h2 class="name">
-Name<span class="req">*</span></h2>
-<input class="firstname" type="text" name="first_name" required="true" placeholder="first name"><br>
-                <label class="firstlabel">first name</label>
-                <input class="lastname" type="text" name="last_name" required="true" placeholder="last name"><br>
-                <label class="lastlabel">last name</label>
-            </div>
-<h2 class="name">
-Gender<span class="req">*</span> </h2>
-<label class="radio">
-                <input class="radio-one" type="radio" checked="checked" name="rdiobtn">
-                <span class="checkmark"></span>
-                Male
-            </label>
-    
-            <label class="radio">
-                <input class="radio-two" type="radio" name="rdiobtn">
-                <span class="checkmark"></span>
-                Female
-            </label>
-
-            <label class="radio">
-                <input class="radio-two" type="radio" name="rdiobtn">
-                <span class="checkmark"></span>
-                Other
-            </label>
-<p>
-</p>
-<h2 class = "name">
-Email<span class="req">*</span></h2>
-<input class="email" type="Email" name="email" required="true">
-            <h2 class="name">
-Phone</h2>
-<input class="Code" type="text" name="area_code" >
-            <label class="area-code">Country Code</label>
-            <input class="number" type="text" name="phone" >
-            <label class="phone-number">Phone Number</label>
-</div>
-<span id="Vehicle">Vehicle Registration:</span>
-<div class="main">
-    <div>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <!--LINK JQUERY-->
+      <script type="text/javascript" src="jquery-3.3.1.js"></script>
+      <script src="script.js"></script>
+      <title>Document</title>
+   </head>
+   <body>
+      <div class="regform">
+         <h1>
+            Vehicle Registration Form
+         </h1>
+      </div>
+      <div>
+         <span id="resident">Resident's Personal Details</span>
+         <div class="main">
+            <form name="myForm" action="submit.php" method="POST">
+               <div id="name">
+                  <h2 class="name">
+                     Name<span class="req">*</span>
+                  </h2>
+                  <input class="firstname" type="text" name="first_name" required="true" placeholder="First Name"><br>
+                  <label class="firstlabel"></label>
+                   
+                   
+                  <input class="lastname" type="text" name="last_name" required="true" placeholder="Last Name"><br>
+                  <label class="lastlabel"></label>
+               </div>
                <h2 class="name">
-Vehicle Name<span class="req">*</span></h2>
-<input class="firstname" type="text" name="vech_name"><br>
-
-                 <h2 class="name">
- Vehicle Type:	
- </h2>
-  <input class="option" list="type" name="type">
-  <datalist id="type">
-    <option value="Four Wheeler">
-    <option value="Two Wheeler">
-  </datalist>
-    <div>
-<h2 class="name">
-Vehicle Registration Number<span class="req">*</span></h2>
-<input class="vechname" type="text" name="reg_name" required="true"><br>
-                <label class="vechlabel"></label>
+                  Gender
+               </h2>
+               <label class="radio">
+               <input class="radio-one" type="radio" checked="checked" name="rdiobtn">
+               <span class="checkmark"></span>
+               Male
+               </label>
+               <label class="radio">
+               <input class="radio-two" type="radio" name="rdiobtn">
+               <span class="checkmark"></span>
+               Female
+               </label>
+               <label class="radio">
+               <input class="radio-two" type="radio" name="rdiobtn">
+               <span class="checkmark"></span>
+               Other
+               </label>
+               <p></p>
+               <h2 class = "name">
+                  Email<span class="req">*</span>
+               </h2>
+               <input class="email" type="Email" name="email" required="true" placeholder="E - Mail Address">
+               <h2 class="name">
+                  Phone<span class="req">*</span>
+               </h2>
+               <input class="Code" type="text" name="area_code" placeholder="Country Code">
+               <label class="area-code"></label>
+               <input class="number" type="text" name="phone" placeholder="Phone Number">
+               <label class="phone-number"></label>
+         </div>
+         <span id="Vehicle">Resident's Vehicle Details</span>
+         <div class="main">
+         <div>
+             <br><br>
+         <h2 class="name">
+         Vehicle Type
+         </h2>
+         <input class="option" list="type" name="type" placeholder="Select Vehicle Type">
+         <datalist id="type">
+         <option value="Four Wheeler">
+         <option value="Two Wheeler">
+         </datalist>
+         <h2 class="name">
+         Vehicle Model</h2>
+         <input class="firstname" type="text" name="vech_name" placeholder="Vehicle Model"><br>
+         <div>
+         <h2 class="name">
+         Vehicle License Plate Number<span class="req">*</span></h2>
+         <input class="vechname" type="text" name="vech_num" required="true"  size="10" placeholder="Vehicle License Plate Number"><br>
+         <label class="vechlabel"></label>
+         </div>
+             </div></div>
+             <div>
+         <h2 id="coustomer">
+         <p align="center">
+         <button  class="center" type="submit" name="submit" value="submit">Register</button></p>
+         </div>
+         </form>
+      </div>
+          <br>
+        <footer class="footer">
+            <hr>
+            <div class="container">
+                <br>
+                <p align="center" class="color">Designed by <a href="https://github.com/sapnanil7">Sapnanil Das</a> | Copyright Sapnanil Das 2020</p><br>
             </div>
-            <div>
-            <h2 class="name">
-Vehicle License Plate Number<span class="req">*</span></h2>
-<input class="vechname" type="text" name="vech_num" required="true"  size="10"><br>
-                <label class="vechlabel"></label>
-            </div>
-            <div>
-            <h2 id="coustomer">    
-            <button class="center" type="submit" name="submit" value="submit">Register</button>
-            </div>
-        </div>
-    </div>
-        </form>
-</div>
-</body>
+            <hr>
+        </footer>
+   </body>
 </html>
