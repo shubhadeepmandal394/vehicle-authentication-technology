@@ -179,7 +179,7 @@
    font-size:15px;
    margin-left:25px;
    margin-top:15px;
-   color:white;
+   color:black;
    }
   .radio input{
               width:20px;
@@ -264,6 +264,10 @@ padding: 5px;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
   }
+  /*h4{
+    color: black;
+  }
+  */
   /*
   input {
         resize: horizontal;
