@@ -22,7 +22,7 @@ VNP Scanner(Vehicle Number Plate Scanner) is a android mobile application develo
 
 #### Download Application
 
-[**VNP Scanner**](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/apk/VNP_Scanner_v0.01.0.apk)
+  [**VNP Scanner**](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/apk/VNP_Scanner_v0.01.0.apk)
 
 ### Contributers
 - [Shubhadeep Mandal](https://github.com/shubhadeepmandal394)
