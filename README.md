@@ -5,7 +5,7 @@
 Many residential society administrations, tolls, business complexes and parking spaces in India lack an computerized system for car parking and vehicle monitoring.Most of the commercial and residential places face an impending problem of illegal car/vehicle parking inside their premises. This issue is not bounded to just parking, but also adds to the
 security concerns inside those establishments.
 
-This Technology helps the Security Personnel of any residential societies, business complex, parking spaces, or any real estate buildings in the detection, identification, and monitoring of vehicles entering/leaving the premises by using image processing of the licence plate pumbers of the vehicles using out Android Application(VNP Scanner - Vehicle Number Plate Scanner) and matching the same with the database.
+This Technology helps the Security Personnel of any residential societies, business complex, parking spaces, or any real estate buildings in the detection, identification, and monitoring of vehicles entering/leaving the premises by using image processing of the licence plate numbers of the vehicles using our Android Application(VNP Scanner) and matching the same with the database.
 
 ### How does it work ?
 
