@@ -1,4 +1,4 @@
-# Vehicle Authentication Registration Website
+# Vehicle Registration Website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e69a5fb4-d71c-4de4-9770-fce07b53f707/deploy-status)](https://app.netlify.com/sites/vehicle-authentication-technology/deploys)
 
