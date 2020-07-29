@@ -58,6 +58,7 @@
                    position: relative;
        left:200px;
        top:-27px;
+       width: 150px;
        line-height: 30px;
        border-radius: 6px;
        padding: 0 22px;
@@ -66,8 +67,9 @@
        }
 .lastname{
              position: relative;
-       left:490px;
+       left:450px;
        top:-60px;
+       width: 150px;
        line-height: 30px;
        border-radius: 6px;
        padding: 0 22px;
