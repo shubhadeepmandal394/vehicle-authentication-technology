@@ -41,7 +41,8 @@ Let's go step by step,
 
 
 - Install and configure [XAMPP](https://pureinfotech.com/install-xampp-windows-10/) on Windows 10.
-  NOTE : *In this project we will be using Apache HTTP server and MySQL database configured using XAMPP on our localhost*
+
+  **NOTE :** *In this project we will be using Apache HTTP server and MySQL database configured using XAMPP on our localhost*
   
   <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_1.jpg" width="500" height="250"></a>
   

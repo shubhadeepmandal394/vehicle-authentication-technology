@@ -3,6 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e69a5fb4-d71c-4de4-9770-fce07b53f707/deploy-status)](https://app.netlify.com/sites/vehicle-authentication-technology/deploys)
 
 Website: https://vehicle-authentication-technology.netlify.app/ **(The Website is for Demonstration Purpose Only)**
+
 **NOTE :** *To dynamically work on the website, setup the website according to the instructions given below.*
 
 
@@ -14,7 +15,7 @@ Website: https://vehicle-authentication-technology.netlify.app/ **(The Website i
 - Go to your Browser and type in http://localhost/index.html (make sure you have turned on Apache HTTP server and MySQL database from XAMPP Control Panel)
 - If you did everything correctly, the website should be up and running.
 
-**NOTE : Make sure your laptop and your android device is connected to the same network while operating on this project**
+**NOTE :** *Make sure your laptop and your android device is connected to the same network while operating on this project.*
 
 ### Contributers
 - [Shubhadeep Mandal](https://github.com/shubhadeepmandal394)
