@@ -18,12 +18,12 @@
     color:#FFFFFF;
     padding:10px 0px 10px 0px;
     text-align:center;
-    border-radius:15px 15px 15px 15px ;
+    border-radius:35px 35px 35px 35px ;
     }  
   .main{
       background: #F7FFFD;
       color: #ccc;
-   margin: 15px 15px 15px 15px;
+   margin: 35px 35px 35px 35px ;
    border-radius: 5px;
    padding: 10px;
     border: 1px solid #d5d5d5;
@@ -36,9 +36,9 @@
   
   #name{
        width:100%;
-    height:100px;
+    height:30px;
     
-    }hr{
+    }.her{
     border: none;
     margin: 5px 0;
     height: 1px;
@@ -57,8 +57,8 @@
 .firstname{
                    position: relative;
        left:200px;
-       top:-37px;
-       line-height: 40px;
+       top:-27px;
+       line-height: 30px;
        border-radius: 6px;
        padding: 0 22px;
        font-size: 16px;
@@ -66,9 +66,9 @@
        }
 .lastname{
              position: relative;
-       left:817px;
-       top:-80px;
-       line-height: 40px;
+       left:490px;
+       top:-60px;
+       line-height: 30px;
        border-radius: 6px;
        padding: 0 22px;
        font-size: 16px;
@@ -94,8 +94,8 @@
            position:relative;
      left:200px;
      top:-37px;
-     line-height: 40px;
-     width:480px;
+     line-height: 30px;
+     width:400px;
         border-radius: 6px;
      padding: 0 22px;
      font-size: 16px;
@@ -104,8 +104,8 @@
         position:relative;
   left:200px;
      top:-37px;
-     line-height: 40px;
-     width:480px;
+     line-height: 30px;
+     width:400px;
         border-radius: 6px;
      padding: 0 22px;
      font-size: 16px;
@@ -116,7 +116,7 @@
          position:relative;
   left:200px;
      top:-37px;
-     line-height: 40px;
+     line-height: 30px;
      width:95px;
         border-radius: 6px;
      padding: 0 22px;
@@ -127,7 +127,7 @@
          position:relative;
   left:200px;
      top:-37px;
-     line-height: 40px;
+     line-height: 30px;
      width:255px;
         border-radius: 6px;
      padding: 0 22px;
@@ -154,9 +154,9 @@
          position:relative;
   left:200px;
      top:-37px;
-     line-height: 40px;
-     width:532px;
-     height:40px;
+     line-height: 30px;
+     width:400px;
+     height:30px;
         border-radius: 6px;
      padding: 0 22px;
      font-size: 16px;
@@ -208,7 +208,8 @@
                    position: relative;
        left:200px;
        top:-37px;
-       line-height: 40px;
+       width: 240px;
+       line-height: 30px;
        border-radius: 6px;
        padding: 0 100px;
        font-size: 16px;
@@ -220,6 +221,16 @@
    font-size: 14px;
    left:203px;
    top:-45px;
+   }
+   .vech_com{
+    position: relative;
+       left:200px;
+       top:-37px;
+       width: 240px;
+       line-height: 30px;
+       border-radius: 6px;
+       padding: 0 100px;
+       font-size: 16px;
    }
 .req
 {
@@ -253,3 +264,17 @@ padding: 5px;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
   }
+  /*
+  input {
+        resize: horizontal;
+        width: 200px;
+    }
+
+    input:active {
+        width: auto;   
+    }
+
+    input:focus {
+        min-width: 200px;
+    }
+    */
