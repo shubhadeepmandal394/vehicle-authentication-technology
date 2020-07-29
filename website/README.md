@@ -1,6 +1,7 @@
 # **Vehicle Authentication Technology**
 
-Demo: link to the website (The Website is for Demonstration Purpose Only)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e69a5fb4-d71c-4de4-9770-fce07b53f707/deploy-status)](https://app.netlify.com/sites/vehicle-authentication-technology/deploys)
+Demo: https://vehicle-authentication-technology.netlify.app/ (The Website is for Demonstration Purpose Only)
 
 
 ### Setting up the Website
