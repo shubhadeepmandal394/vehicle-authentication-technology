@@ -246,6 +246,7 @@
     font-size: 16px;
     color: #FFFFFF;
     display: block;
+    border-radius: 3px 3px 3px 3px ;
     -webkit-font-smoothing: antialiased;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
@@ -260,6 +261,7 @@ padding: 5px;
     font-size: 16px;
     color: #FFFFFF;
     display: block;
+    border-radius: 3px 3px 3px 3px ;
     -webkit-font-smoothing: antialiased;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
