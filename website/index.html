@@ -17,7 +17,7 @@
 <div><span id="resident">Resident/Applicant Details:</span>
 <div class="main">
     
-        <form name="myForm"method="POST">
+        <form name="myForm" action="submit.php" method="POST">
             <div id="name">
                 <h2 class="name">
 Name<span class="req">*</span></h2>
@@ -61,7 +61,7 @@ Phone</h2>
 <div class="main">
                <h2 class="name">
 Vehicle Name<span class="req">*</span></h2>
-<input class="firstname" type="text" name="first_name"><br>
+<input class="firstname" type="text" name="vech_name"><br>
 
                  <h2 class="name">
  Vehicle Type:	
@@ -74,18 +74,18 @@ Vehicle Name<span class="req">*</span></h2>
     <div>
 <h2 class="name">
 Vehicle Registration Number<span class="req">*</span></h2>
-<input class="vechname" type="text" name="first_name" required="true"><br>
+<input class="vechname" type="text" name="reg_name" required="true"><br>
                 <label class="vechlabel"></label>
             </div>
             <div>
             <h2 class="name">
 Vehicle License Plate Number<span class="req">*</span></h2>
-<input class="vechname" type="text" name="first_name" required="true"  size="10"><br>
+<input class="vechname" type="text" name="vech_num" required="true"  size="10"><br>
                 <label class="vechlabel"></label>
             </div>
             <div>
             <h2 id="coustomer">    
-            <button class="center" type="submit" value="submit">Register</button>
+            <button class="center" type="submit" name="submit" value="submit">Register</button>
             </div>
         </div>
         </form>
