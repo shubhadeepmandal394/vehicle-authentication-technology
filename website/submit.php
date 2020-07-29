@@ -1,9 +1,10 @@
 <?php
 
-$a=$_POST['firstname'];
-$b=$_POST['lastname'];
-$c=$_POST['mailaddress'];
-$d=$_POST['secretcode'];
+$a=$_POST['first_name'];
+$b=$_POST['last_name'];
+$c=$_POST['email'];
+$d=$_POST['vech_name'];
+$e=$_POST['vech_num'];
 
 $servername = "localhost";
 $username = "root";
@@ -19,7 +20,7 @@ if($con->connect_error)
     die("Connection Failed !!" . $con->connect_error);
 }
 echo "Connected Successfully !!";
-$sql = "INSERT INTO users (fname,lname,mail,code) VALUES ('$a','$b','$c','$d')";
+$sql = "INSERT INTO users (fname,lname,mail,vech1,vech2) VALUES ('$a','$b','$c','$d','$e')";
 
 if($con->query($sql) === TRUE)
 {
