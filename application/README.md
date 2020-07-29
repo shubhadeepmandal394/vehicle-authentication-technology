@@ -6,11 +6,11 @@ VNP Scanner(Vehicle Number Plate Scanner) is a android mobile application develo
 
 ### Setting up the Android Application
 
-- Download the [Android Application Zip](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/zip/VNP_Scanner_v0.01.0.zip) or **clone the repository**.
+- Download the [Android Application Zip](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/zip/application.zip) or **clone the repository**.
 - After doing so, go to **vehicle-authentication-technology** -> **application** -> **build** (Make sure you have [Android Studio](https://www.youtube.com/watch?v=5LMRbAiRkdY) Installed in your device).
 - Andorid Studio will now build the application and after Installing the same, it will be availabe for your use.
 
- NOTE: *You are suggested to connect your physical android device for running this application as the camera functionality in the emulator might cause problems*.
+ **NOTE:** *You are suggested to connect your physical android device for running this application as the camera functionality in the emulator might cause problems.*
 
 #### Requirements
 
