@@ -15,9 +15,9 @@ In this Technology, we the developers [Shubhadeep Mandal](https://github.com/shu
 
 Let's go step by step,
 
-- The residents of the residential society are provided with a [Website](<give the link to the website here>) where they are to register themselves along with their Vehicle Details (if they own any).
+- The residents of the residential society are provided with a website where they are to register themselves along with their Vehicle Details (if they own any).
 - After registration the same will data will be uploaded to our database.
-- The Security Personnel of the establishment will be provided with an Android Smartphone with our [Android Application](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/application) installed in it.
+- The Security Personnel of the establishment will be provided with an android smartphone with our android application installed in it.
 - Now, whenever any vehicle enters the establishment the security personnel scans the vehicle's number plate using the App and if the Vehicle belongs to any of the Redsidents it will show the message "VEHICLE REGISTERED" else it will show "VEHICLE NOT REGISTERED", and thus they can take actions accordingly.
 
 ### Technology Stack
