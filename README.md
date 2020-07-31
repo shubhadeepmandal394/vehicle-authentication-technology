@@ -20,7 +20,7 @@ Let's go step by step,
 - The Security Personnel of the establishment will be provided with an android smartphone with our android application installed in it.
 - Now, whenever any vehicle enters the establishment the security personnel scans the vehicle's number plate using the App and if the Vehicle belongs to any of the Redsidents it will show the message "VEHICLE REGISTERED" else it will show "VEHICLE NOT REGISTERED", and thus they can take actions accordingly.
 
-**Demo Video :** [*Watch Here*](https://www.linkedin.com/posts/shubhadeepmandal394_ideas-technology-android-activity-6694354006132740097-5QZx)
+**Demo Video :** [*Watch Here*](https://youtu.be/qkdzNRpi05E)
 
 ### Technology Stack
 
