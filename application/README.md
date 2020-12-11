@@ -12,7 +12,7 @@ VNP Scanner(Vehicle Number Plate Scanner) is a android mobile application develo
 
  **NOTE:** *You are suggested to connect your physical android device for running this application as the camera functionality in the emulator might cause problems.*
 
-#### Requirements
+### Requirements
 
 - JDK 8
 - Latest Android SDK tools
